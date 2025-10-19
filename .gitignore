@@ -152,3 +152,9 @@ poetry.toml
 # IDE
 *.code-workspace
 .windsurf/
+
+# Blackwell build artifacts
+build-blackwell.sh
+README.blackwell.md
+*.log
+llama-*.zip
